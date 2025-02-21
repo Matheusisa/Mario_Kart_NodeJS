@@ -31,7 +31,7 @@ npm install
 ### ▶️ Executando o jogo
 Para iniciar a simulação, utilize o comando:
 ```bash
-node index.js
+node src/index.js
 ```
 
 ---
