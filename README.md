@@ -136,4 +136,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ## 📩 Contato
 Caso tenha dúvidas ou sugestões, entre em contato:
 
-- 🐙 GitHub: [@seu-usuario](https://github.com/Matheusisa)
+- 🐙 GitHub: [@Matheusisa](https://github.com/Matheusisa)
