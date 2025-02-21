@@ -1,6 +1,16 @@
 # 🏆 Projeto Mario Kart com Node.js
 
-<img src="./docs/header.gif" alt="Mario Kart" width="400">
+<table>
+        <tr>
+            <td>
+                <img src="./docs/header.gif" alt="Mario Kart" width="200">
+            </td>
+            <td>
+                <b>Objetivo:</b>
+                <p>Mario Kart é uma série de jogos de corrida desenvolvida e publicada pela Nintendo. Nosso desafio será criar uma lógica de um jogo de vídeo game para simular corridas de Mario Kart, levando em consideração as regras e mecânicas abaixo.</p>
+            </td>
+        </tr>
+    </table>
 
 ## 🎯 Objetivo
 Este projeto simula uma corrida inspirada no universo de **Mario Kart**, utilizando lógica de programação para representar as mecânicas do jogo.
